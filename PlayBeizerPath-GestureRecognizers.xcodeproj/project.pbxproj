@@ -124,6 +124,7 @@
 				TargetAttributes = {
 					C41FBFCA1C79E5470004B2C7 = {
 						CreatedOnToolsVersion = 7.2;
+						LastSwiftMigration = 0820;
 					};
 				};
 			};
@@ -295,6 +296,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = playBeizerPath.gestureRecognizers;
 				PRODUCT_NAME = BeizerGesture;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -307,6 +309,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = playBeizerPath.gestureRecognizers;
 				PRODUCT_NAME = BeizerGesture;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
